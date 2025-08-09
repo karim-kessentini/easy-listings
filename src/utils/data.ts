@@ -1,6 +1,6 @@
-import visibilityDilemma from "../assets/images/visibility-dilemma.jpg";
-import engagementGap from "../assets/images/engagement-gap.jpg";
-import resultsInHibernation from "../assets/images/results-in-hibernation.jpg";
+import customWebsite from "../assets/images/custom-website.jpg";
+import growthPlan from "../assets/images/growth-plan.jpg";
+import conversion from "../assets/images/conversion.jpg";
 
 const services = [
   {
@@ -61,34 +61,27 @@ const services = [
 
 const solutions = [
   {
-    title: "Visibility Dilemma",
-    painPoint:
-      "Your brand is drowning in the vast sea of social media, struggling to be seen by your target audience.",
-    agitatepainPoint:
-      "It's disheartening when your carefully crafted content goes unnoticed. Your potential customers are out there, but they simply can't find you amidst the digital noise.",
-    solution:
-      "Our targeted visibility strategies cut through the clutter, ensuring your brand is not just seen but remembered. Watch our video to see how we make your presence impossible to ignore.",
-    img: visibilityDilemma,
+    title: "Custom Website with On-site SEO",
+    firstPoint:
+      "We create bespoke websites tailored to real estate professionals, ensuring a seamless user experience and optimal search engine visibility,",
+    secondPoint: " Our on-site SEO techniques guarantee your site ranks higher, attracting more organic traffic.",
+    img: customWebsite,
   },
   {
-    title: "Engagement Gap",
-    painPoint:
-      "Despite your efforts, audience engagement remains lackluster, and interactions are not translating into meaningful connections.",
-    agitatepainPoint:
-      "It's frustrating to see competitors effortlessly engaging their audience while your brand struggles to spark conversations. Your content deserves better results, and we have the solution.",
-    solution:
-      "Our proven engagement tactics ignite conversations, turning passive viewers into active participants. Explore how we bridge the engagement gap in our video walkthrough.",
-    img: engagementGap,
+    title: "High-conversion Formula",
+    firstPoint:
+      "We don’t just build websites — we build lead machines.",
+    secondPoint: "Our proven high-conversion formula combines clean, professional design with strategic calls-to-action, lightning-fast performance, and SEO best practices tailored for real estate.",
+    thirdPonit: "From optimized property pages to frictionless lead capture forms, every element is crafted to turn visitors into qualified leads — effortlessly.",
+    img: conversion,
   },
   {
-    title: "Results in Hibernation",
-    painPoint:
-      "Your social media efforts aren't translating into tangible results, leaving you wondering if your investment is paying off.",
-    agitatepainPoint:
-      "It's disheartening when the metrics show little growth or impact. Your time and resources are valuable, and it's time to break free from the cycle of stagnant results.",
-    solution:
-      "Our data-driven approach ensures every action is purposeful, yielding measurable results. Dive into our video guide to witness how we turn social media activities into a powerful engine for your brand's success.",
-    img: resultsInHibernation,
+    title: "Growth Plan Strategy",
+    firstPoint:
+      "Our growth plan strategy focuses on building a strong online presence, enhancing brand visibility, and driving targeted traffic to your website.",
+    secondPoint: "We analyze your market and competitors to create a roadmap for sustainable growth.",
+    thirdPoint: "Our approach includes content marketing, social media engagement, and data-driven decision-making to ensure your business thrives in the digital landscape.",
+    img: growthPlan,
   },
 ];
 
